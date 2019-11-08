@@ -1,0 +1,37 @@
+{
+  "name": "ambiance.",
+  "short_name": "ambiance.",
+  "icons": [{
+        "src": "img/pwa/ambiance128.png",
+        "type": "image/png",
+        "sizes": "128x128"
+      }, {
+        "src": "img/pwa/ambiance152.png",
+        "type": "image/png",
+        "sizes": "152x152"
+      }, {
+        "src": "img/pwa/ambiance144.png",
+        "type": "image/png",
+        "sizes": "144x144"
+      }, {
+        "src": "img/pwa/ambiance192.png",
+        "type": "image/png",
+        "sizes": "192x192"
+      },
+      {
+        "src": "img/pwa/ambiance256.png",
+        "type": "image/png",
+        "sizes": "256x256"
+      },
+      {
+        "src": "img/pwa/ambiance512.png",
+        "type": "image/png",
+        "sizes": "512x512"
+      }],
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#5c11cc",
+  "theme_color": "#5c11cc"
+}
