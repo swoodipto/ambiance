@@ -4,4 +4,4 @@
 
 ***ambiance.** *beta* uses the [COLOURlovers](http://www.colourlovers.com/) API to generate palettes, please read the license of the palettes before using them.
 
-![Ambiance Preview](https://raw.githubusercontent.com/otpidusprime/ambiance/master/img/preview640px23fps.gif)
+![Ambiance Preview](https://raw.githubusercontent.com/otpidusprime/ambiance/master/img/previewOrg10fps.gif)
